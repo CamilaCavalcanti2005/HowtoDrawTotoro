@@ -20,10 +20,11 @@ Totoro is the titular character of the animated film *“My Neighbor Totoro,”*
 - First you want to draw Totoro's body, and we will use this as a base for the following drawing. You want to make sure to not make the top of his head too narrow, we will need ample space for his face, and leave some room on the top to connect his arms.
 
  > ![step1Totoro](step1.png)
+img[alt=step1Totoro] { width: 200px; }
 
 ## Step 2
 
-- Next you want to draw his arms. Totoro's arms reach a bit past halfway his body, and they are usually at his sides, so you can follow the curve of his belly when adding them. 
+- Next, you want to draw his arms. Totoro's arms reach a bit past halfway down his body, and they are usually at his sides, so you can follow the curve of his belly when adding them. 
 - Make sure to add some  small curved triangles on the ends of his paws to make his claws! 
 
  > ![step2Totoro](step2.png)
@@ -31,7 +32,7 @@ Totoro is the titular character of the animated film *“My Neighbor Totoro,”*
 ## Step 3
 
 - Draw two ovals turning outward at the bottom of his body to make his legs! 
-- Add a smaller circle at the bottom of his legs to make his feet. And we'll add another smaller circle in that to make his paw pad and some of the triangles from before to make little claws
+- Add a smaller circle at the bottom of his legs to make his feet. And we'll add another smaller circle in that to make his paw pad, and some of the triangles from before to make little claws
 
  > ![step3Totoro](step3.png)
 
@@ -64,4 +65,5 @@ Totoro is the titular character of the animated film *“My Neighbor Totoro,”*
 - Finally, add some little details. Here we added some shading and a bit of grass, but the enviroment he is in is up to you.
 
  > ![step8Totoro](step8.png)
+
 
