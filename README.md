@@ -12,7 +12,7 @@ Totoro is the titular character of the animated film *“My Neighbor Totoro,”*
 - Tablet
 - Tablet Pen
 - Drawing program
-     > If your drawing program, it might be easier to turn on any symmetry tools to help make the drawing even.
+     > If you're using a drawing program, it might be easier to turn on any symmetry tools to help make the drawing even.
 ---------------------
 
 ## Step 1
@@ -64,6 +64,7 @@ Totoro is the titular character of the animated film *“My Neighbor Totoro,”*
 - Finally, add a few details. Here, we added some shading and a bit of grass, but the environment he is in is up to you.
 
  > <img src="step8.png" alt="step8Totoro" width="300"/>
+
 
 
 
