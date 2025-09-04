@@ -20,7 +20,7 @@ Totoro is the titular character of the animated film *“My Neighbor Totoro,”*
 - First you want to draw Totoro's body, and we will use this as a base for the following drawing. You want to make sure to not make the top of his head too narrow, we will need ample space for his face, and leave some room on the top to connect his arms.
 
  > ![step1Totoro](step1.png)
-img[alt=step1Totoro] { width: 200px; }
+<img src="step1.png" alt="step1Totoro" width="200"/>
 
 ## Step 2
 
@@ -65,5 +65,6 @@ img[alt=step1Totoro] { width: 200px; }
 - Finally, add some little details. Here we added some shading and a bit of grass, but the enviroment he is in is up to you.
 
  > ![step8Totoro](step8.png)
+
 
 
